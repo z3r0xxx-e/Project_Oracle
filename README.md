@@ -1,7 +1,6 @@
 =========================================================
 # 👁️ [PROJECT ORACLE]: SECURITY BREACH DETECTED
-=========================================================
----
+
 
 ### // WARNING: ACCESS RESTRICTED
 An isolated node has been detected in the network matrix. 
