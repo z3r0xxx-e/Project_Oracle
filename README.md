@@ -32,6 +32,6 @@ git clone https://github.com/z3r0xxx-e/Project_Oracle
 
 ============================================================
 [STATUS: OPERATIONAL] // THE MAZE IS WAITING. BREAK THE CORE.
-============================================================
+=
 
 
