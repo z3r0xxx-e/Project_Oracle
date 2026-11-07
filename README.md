@@ -30,7 +30,7 @@ git clone https://github.com/z3r0xxx-e/Project_Oracle
 ### ⚠️ SYSTEM NOTICE
 *   **Decoys:** Present. The system is designed to mislead. Trust nothing but pure logic.
 
-============================================================
+=============================================
 [STATUS: OPERATIONAL] // THE MAZE IS WAITING. BREAK THE CORE.
 =
 
