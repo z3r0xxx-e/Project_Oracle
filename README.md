@@ -1,7 +1,7 @@
-=================================================
+=========================================================
 # 👁️ [PROJECT ORACLE]: SECURITY BREACH DETECTED
-=================================================
-
+=========================================================
+---
 
 ### // WARNING: ACCESS RESTRICTED
 An isolated node has been detected in the network matrix. 
@@ -30,7 +30,7 @@ git clone https://github.com/z3r0xxx-e/Project_Oracle
 ### ⚠️ SYSTEM NOTICE
 *   **Decoys:** Present. The system is designed to mislead. Trust nothing but pure logic.
 
-=============================================
+==================================
 [STATUS: OPERATIONAL] // THE MAZE IS WAITING. BREAK THE CORE.
 =
 
