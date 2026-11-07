@@ -1,0 +1,36 @@
+========================================================================
+                      [PROJECT ORACLE]: ARCHITECTURE
+========================================================================
+
+
+ This document describes the layout and structural flow of the Oracle CTF 
+ project. No puzzle solutions or explicit passphrases are included here.
+
+
+------------------------------------------------------------------------
+     • GITHUB REPOSITORY STRUCTURE 
+------------------------------------------------------------------------
+
+📂 /first/
+   ├── cipher_function.py  --> Python logic.
+   ├── function_result.txt --> Encrypted string.
+   └── secret_archive.zip  --> Secured asset container (Requires Key 1).
+                               Inside: 2 images + 1 clue file.
+              ↓
+              ↓
+              ↓
+
+📂 /Next/
+   ├── [500 .txt files]    --> Simulated database cluster with random phrases.
+   │                           Contains unique files hidden inside.
+   │          ↓
+   │      find Key 2  
+   │          ↓
+   │
+   └── secret_word.zip     --> Secured asset container (Requires Key 2).
+                               Inside: 1 file: table.txt.
+
+
+========================================================================
+          [END OF ARCHITECTURE FILE] - SYSTEM STATUS: OPERATIONAL
+========================================================================

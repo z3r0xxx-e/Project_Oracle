@@ -1,0 +1,2 @@
+Data stream synchronized.
+Encryption standard AES-256 applied successfully.

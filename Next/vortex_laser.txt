@@ -1,0 +1,2 @@
+Nothing to see here, keep looking.
+Encryption standard AES-256 applied successfully.

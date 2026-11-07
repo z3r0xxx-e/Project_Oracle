@@ -1,0 +1,2 @@
+The quick brown fox jumps over the lazy dog.
+Encryption standard AES-256 applied successfully.
