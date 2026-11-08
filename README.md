@@ -34,3 +34,21 @@ git clone https://github.com/z3r0xxx-e/Project_Oracle
 =
 
 
+
+## 🏆 Leaderboard (Hall of Fame)
+
+Here are the names of those who successfully cracked all the ciphers, found the ZIP passwords, and made it to the very end.
+
+| Rank | Player Username | Date of Completion |
+| :---: | :--- | :---: |
+| 🥇 1 | Vacant | — |
+| 🥈 2 | Vacant | — |
+| 🥉 3 | Vacant | — |
+| 4 | Vacant | — |
+
+### 🚀 How to get on the Leaderboard?
+If you have reached the final screen and want to immortalize your username:
+1. Take a **screenshot** of your victory screen.
+2. Go to this [GOOGLE FORM](https://forms.gle/JpnJSbei5EbgggAr7), enter your username, and upload the screenshot.
+3. The verification is done manually — the author will check your screenshot and add you to the table right away! Your files are completely hidden from other players, so there will be no spoilers.
+
