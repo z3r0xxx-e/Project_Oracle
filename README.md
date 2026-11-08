@@ -1,4 +1,3 @@
-=========================================================
 # 👁️ [PROJECT ORACLE]: SECURITY BREACH DETECTED
 
 
@@ -28,14 +27,19 @@ git clone https://github.com/z3r0xxx-e/Project_Oracle
 
 ### ⚠️ SYSTEM NOTICE
 *   **Decoys:** Present. The system is designed to mislead. Trust nothing but pure logic.
-
+---
 ==================================
 [STATUS: OPERATIONAL] // THE MAZE IS WAITING. BREAK THE CORE.
 =
 
+##
+##
+##
+##
+##
 
 
-## 🏆 Leaderboard (Hall of Fame)
+##  *🏆 Leaderboard (Hall of Fame)*
 
 Here are the names of those who successfully cracked all the ciphers, found the ZIP passwords, and made it to the very end.
 
